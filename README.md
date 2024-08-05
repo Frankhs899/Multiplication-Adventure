@@ -20,6 +20,8 @@ Este proyecto surge de la necesidad de hacer que el aprendizaje de las tablas de
 - **CSS:** Estilo y diseño del juego.
 - **JavaScript:** Lógica del juego y manejo de la interactividad.
 
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Ffrankhs899.github.io%2FMultiplication-Adventure%2F&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=Visitas%3A&ta=)
+
 ## Instalación y Uso
 
 1. Clona este repositorio:
